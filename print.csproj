@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{421FCBDE-53F5-4D19-8B09-A1BD59D1130C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>print</RootNamespace>
+    <AssemblyName>print</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountingSection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountingSection.Designer.cs">
+      <DependentUpon>AccountingSection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BBAinput_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BBAinput_Form.Designer.cs">
+      <DependentUpon>BBAinput_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BillMakingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BillMakingForm.Designer.cs">
+      <DependentUpon>BillMakingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BillRemunerationExamPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BillRemunerationExamPrint.Designer.cs">
+      <DependentUpon>BillRemunerationExamPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="controllerDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>controllerDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CourseCodeCourseTitleCreditHour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CourseCodeCourseTitleCreditHour.Designer.cs">
+      <DependentUpon>CourseCodeCourseTitleCreditHour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSEinputform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSEinputform.Designer.cs">
+      <DependentUpon>CSEinputform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSEprintPrev11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSEprintPrev11.Designer.cs">
+      <DependentUpon>CSEprintPrev11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSEPrintpreview10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSEPrintpreview10.Designer.cs">
+      <DependentUpon>CSEPrintpreview10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputBillremunerationExam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputBillremunerationExam.designer.cs">
+      <DependentUpon>InputBillremunerationExam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Overview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Overview.Designer.cs">
+      <DependentUpon>Overview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AccountingSection.resx">
+      <DependentUpon>AccountingSection.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BBAinput_Form.resx">
+      <DependentUpon>BBAinput_Form.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BillMakingForm.resx">
+      <DependentUpon>BillMakingForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BillRemunerationExamPrint.resx">
+      <DependentUpon>BillRemunerationExamPrint.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CourseCodeCourseTitleCreditHour.resx">
+      <DependentUpon>CourseCodeCourseTitleCreditHour.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSEinputform.resx">
+      <DependentUpon>CSEinputform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSEprintPrev11.resx">
+      <DependentUpon>CSEprintPrev11.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSEPrintpreview10.resx">
+      <DependentUpon>CSEPrintpreview10.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputBillremunerationExam.resx">
+      <DependentUpon>InputBillremunerationExam.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Overview.resx">
+      <DependentUpon>Overview.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration_Form.resx">
+      <DependentUpon>Registration_Form.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultMaking_Form.resx">
+      <DependentUpon>ResultMaking_Form.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Result_Section.resx">
+      <DependentUpon>Result_Section.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student_Info.resx">
+      <DependentUpon>Student_Info.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeacherInformationInput.resx">
+      <DependentUpon>TeacherInformationInput.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="controllerDataSet.xsc">
+      <DependentUpon>controllerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="controllerDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>controllerDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="controllerDataSet.xss">
+      <DependentUpon>controllerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Registration_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration_Form.Designer.cs">
+      <DependentUpon>Registration_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultMaking_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultMaking_Form.Designer.cs">
+      <DependentUpon>ResultMaking_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Result_Section.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Result_Section.Designer.cs">
+      <DependentUpon>Result_Section.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student_Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student_Info.Designer.cs">
+      <DependentUpon>Student_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeacherInformationInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeacherInformationInput.Designer.cs">
+      <DependentUpon>TeacherInformationInput.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="controller.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="controller_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>controller.mdf</DependentUpon>
+    </Content>
+    <None Include="Picture\green %2815%29.jpg" />
+    <None Include="Picture\green %2813%29.jpg" />
+    <None Include="Picture\green %285%29.jpg" />
+    <None Include="Picture\63.jpg" />
+    <None Include="Picture\57.jpg" />
+    <None Include="Picture\Grass03.bmp" />
+    <None Include="Picture\img741.jpg" />
+    <None Include="Picture\HUA010.JPG" />
+    <None Include="Picture\green %2810%29.jpg" />
+    <None Include="Picture\01279_turquise_1920x1080.jpg" />
+    <None Include="Picture\HUA007.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.9.2">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition SP2 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

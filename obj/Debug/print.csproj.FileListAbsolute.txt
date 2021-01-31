@@ -1,0 +1,122 @@
+E:\data 3 new\print\print\obj\Debug\ResolveAssemblyReference.cache
+E:\data 3 new\print\print\obj\Debug\print.Form1.resources
+E:\data 3 new\print\print\obj\Debug\print.Form2.resources
+E:\data 3 new\print\print\obj\Debug\print.Properties.Resources.resources
+E:\data 3 new\print\print\obj\Debug\print.csproj.GenerateResource.Cache
+E:\data 3 new\print\print\bin\Debug\print.exe
+E:\data 3 new\print\print\bin\Debug\print.pdb
+E:\data 3 new\print\print\obj\Debug\print.exe
+E:\data 3 new\print\print\obj\Debug\print.pdb
+E:\data 3 new\sumona\print\print\obj\Debug\print.exe
+E:\data 3 new\sumona\print\print\obj\Debug\print.pdb
+E:\data 3 new\sumona\print\print\bin\Debug\print.exe
+E:\data 3 new\sumona\print\print\bin\Debug\print.pdb
+E:\data 3 new\sumona\print\print\obj\Debug\ResolveAssemblyReference.cache
+E:\data 3 new\sumona\print\print\obj\Debug\print.Properties.Resources.resources
+E:\data 3 new\sumona\print\print\obj\Debug\print.csproj.GenerateResource.Cache
+E:\data 3 new\sumona\print\print\obj\Debug\print.CSEprintPrev10.resources
+E:\data 3 new\sumona\print\print\obj\Debug\print.CSEprintPrev11.resources
+E:\data 3 new\sumona\print\print\obj\Debug\print.CSEinputform.resources
+E:\data 3 new\Final project\print\obj\Debug\print.exe
+E:\data 3 new\Final project\print\obj\Debug\print.pdb
+E:\data 3 new\Final project\print\obj\Debug\ResolveAssemblyReference.cache
+E:\data 3 new\Final project\print\obj\Debug\print.BBAinput_Form.resources
+E:\data 3 new\Final project\print\obj\Debug\print.CSEinputform.resources
+E:\data 3 new\Final project\print\obj\Debug\print.CSEprintPrev11.resources
+E:\data 3 new\Final project\print\obj\Debug\print.CSEPrintpreview10.resources
+E:\data 3 new\Final project\print\obj\Debug\print.Login.resources
+E:\data 3 new\Final project\print\obj\Debug\print.Overview.resources
+E:\data 3 new\Final project\print\obj\Debug\print.Properties.Resources.resources
+E:\data 3 new\Final project\print\obj\Debug\print.Registration_Form.resources
+E:\data 3 new\Final project\print\obj\Debug\print.ResultMaking_Form.resources
+E:\data 3 new\Final project\print\obj\Debug\print.Result_Section.resources
+E:\data 3 new\Final project\print\obj\Debug\print.Student_Info.resources
+E:\data 3 new\Final project\print\obj\Debug\print.csproj.GenerateResource.Cache
+E:\data 3 new\Final project\print\bin\Debug\controller.mdf
+E:\data 3 new\Final project\print\bin\Debug\controller_log.ldf
+E:\data 3 new\Final project\print\bin\Debug\print.exe.config
+E:\data 3 new\Final project\print\bin\Debug\print.exe
+E:\data 3 new\Final project\print\bin\Debug\print.pdb
+E:\data 3 new\last final project\print\bin\Debug\print.exe.config
+E:\data 3 new\last final project\print\obj\Debug\print.exe
+E:\data 3 new\last final project\print\obj\Debug\print.pdb
+E:\data 3 new\thesis final project  22222\Final project\print\bin\Debug\print.exe.config
+E:\data 3 new\thesis final project  22222\Final project\print\obj\Debug\print.exe
+E:\data 3 new\thesis final project  22222\Final project\print\obj\Debug\print.pdb
+F:\Thesis\Sumonoa project\Final project\print\bin\Debug\print.exe.config
+F:\Thesis\Sumonoa project\Final project\print\obj\Debug\print.exe
+F:\Thesis\Sumonoa project\Final project\print\obj\Debug\print.pdb
+F:\Thesis\Sumonoa project\Final project\print\bin\Debug\controller.mdf
+F:\Thesis\Sumonoa project\Final project\print\bin\Debug\controller_log.ldf
+F:\Thesis\Sumonoa project\Final project\print\bin\Debug\print.exe
+F:\Thesis\Sumonoa project\Final project\print\bin\Debug\print.pdb
+F:\Thesis\Sumonoa project\Final project\print\obj\Debug\ResolveAssemblyReference.cache
+F:\Thesis\Sumonoa project\Final project\print\obj\Debug\print.BBAinput_Form.resources
+F:\Thesis\Sumonoa project\Final project\print\obj\Debug\print.CSEinputform.resources
+F:\Thesis\Sumonoa project\Final project\print\obj\Debug\print.CSEprintPrev11.resources
+F:\Thesis\Sumonoa project\Final project\print\obj\Debug\print.CSEPrintpreview10.resources
+F:\Thesis\Sumonoa project\Final project\print\obj\Debug\print.Login.resources
+F:\Thesis\Sumonoa project\Final project\print\obj\Debug\print.Overview.resources
+F:\Thesis\Sumonoa project\Final project\print\obj\Debug\print.Properties.Resources.resources
+F:\Thesis\Sumonoa project\Final project\print\obj\Debug\print.Registration_Form.resources
+F:\Thesis\Sumonoa project\Final project\print\obj\Debug\print.ResultMaking_Form.resources
+F:\Thesis\Sumonoa project\Final project\print\obj\Debug\print.Result_Section.resources
+F:\Thesis\Sumonoa project\Final project\print\obj\Debug\print.Student_Info.resources
+F:\Thesis\Sumonoa project\Final project\print\obj\Debug\print.Student_student_info.resources
+F:\Thesis\Sumonoa project\Final project\print\obj\Debug\print.csproj.GenerateResource.Cache
+D:\C#\Final project\print\bin\Debug\print.exe.config
+D:\C#\Final project\print\obj\Debug\print.exe
+D:\C#\Final project\print\obj\Debug\print.pdb
+G:\data 3 new\Final project\print\bin\Debug\print.exe.config
+G:\data 3 new\Final project\print\obj\Debug\print.exe
+G:\data 3 new\Final project\print\obj\Debug\print.pdb
+G:\data 3 new\Final project\print\bin\Debug\controller.mdf
+G:\data 3 new\Final project\print\bin\Debug\controller_log.ldf
+G:\data 3 new\Final project\print\bin\Debug\print.exe
+G:\data 3 new\Final project\print\bin\Debug\print.pdb
+G:\data 3 new\Final project\print\obj\Debug\ResolveAssemblyReference.cache
+G:\data 3 new\Final project\print\obj\Debug\print.BBAinput_Form.resources
+G:\data 3 new\Final project\print\obj\Debug\print.CSEinputform.resources
+G:\data 3 new\Final project\print\obj\Debug\print.CSEprintPrev11.resources
+G:\data 3 new\Final project\print\obj\Debug\print.CSEPrintpreview10.resources
+G:\data 3 new\Final project\print\obj\Debug\print.Login.resources
+G:\data 3 new\Final project\print\obj\Debug\print.Overview.resources
+G:\data 3 new\Final project\print\obj\Debug\print.Properties.Resources.resources
+G:\data 3 new\Final project\print\obj\Debug\print.Registration_Form.resources
+G:\data 3 new\Final project\print\obj\Debug\print.ResultMaking_Form.resources
+G:\data 3 new\Final project\print\obj\Debug\print.Result_Section.resources
+G:\data 3 new\Final project\print\obj\Debug\print.Student_Info.resources
+G:\data 3 new\Final project\print\obj\Debug\print.Student_student_info.resources
+G:\data 3 new\Final project\print\obj\Debug\print.csproj.GenerateResource.Cache
+E:\data 3 new\Final project\print\obj\Debug\print.BillRemunerationExamPrint.resources
+E:\data 3 new\Final project\print\obj\Debug\print.CourseCodeCourseTitleCreditHour.resources
+E:\data 3 new\Final project\print\obj\Debug\print.TeacherInformationInput.resources
+E:\data 3 new\Final project\print\obj\Debug\print.AccountingSection.resources
+E:\data 3 new\Final project\print\obj\Debug\print.BillMakingForm.resources
+E:\data 3 new\Final project\print\obj\Debug\print.InputBillremunerationExam.resources
+D:\My Project\data 3 new\Final project\print\bin\Debug\print.exe.config
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.exe
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.pdb
+D:\My Project\data 3 new\Final project\print\bin\Debug\controller.mdf
+D:\My Project\data 3 new\Final project\print\bin\Debug\controller_log.ldf
+D:\My Project\data 3 new\Final project\print\bin\Debug\print.exe
+D:\My Project\data 3 new\Final project\print\bin\Debug\print.pdb
+D:\My Project\data 3 new\Final project\print\obj\Debug\ResolveAssemblyReference.cache
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.AccountingSection.resources
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.BBAinput_Form.resources
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.BillMakingForm.resources
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.BillRemunerationExamPrint.resources
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.CourseCodeCourseTitleCreditHour.resources
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.CSEinputform.resources
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.CSEprintPrev11.resources
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.CSEPrintpreview10.resources
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.InputBillremunerationExam.resources
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.Login.resources
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.Overview.resources
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.Properties.Resources.resources
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.Registration_Form.resources
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.ResultMaking_Form.resources
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.Result_Section.resources
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.Student_Info.resources
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.TeacherInformationInput.resources
+D:\My Project\data 3 new\Final project\print\obj\Debug\print.csproj.GenerateResource.Cache
